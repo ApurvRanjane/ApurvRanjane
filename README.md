@@ -8,7 +8,6 @@
 💻 I enjoy building scalable full-stack web applications and solving problems using **C++**.
 
 🌱 **Currently Learning**
-- Java & Spring Boot
 - Data Science
 - AI/ML & Generative AI
 - Automation
@@ -35,12 +34,6 @@
 
 - 🥈 Finalist – PCCOE Ideathon & Indradhanu Hackathon
 - 💯 Achieved **10 SGPA** in Second Year Engineering
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ApurvRanjane&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvRanjane&layout=compact&theme=tokyonight)
 
 ## 📫 Connect
 
